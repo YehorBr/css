@@ -1,0 +1,32 @@
+/* body a{
+    background-color: orange;
+}
+
+.list h3{
+    background-color: rgb(255, 29, 59); Це КЛАС
+}
+
+ul>li{
+    background-color: rgba(172, 255, 47, 0.226);
+} */
+
+/* h3 + p{
+    color: blueviolet;
+} */
+
+/* h3 ~ p{
+    color: tomato;
+} */
+/* a[href]{
+    background-color: teal;
+} */
+
+/* section> ul{
+    background-color: aqua;
+} */
+section>ul>li+li{
+    background-color: blueviolet;
+}
+
+
+

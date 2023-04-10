@@ -1,0 +1,24 @@
+ul{
+    border: 10px dashed green
+    
+}
+li{
+    border: 2px solid red;
+    
+}
+
+.purple{
+    background-color: purple;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.cyan{
+    background-color: cyan;
+}

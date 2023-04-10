@@ -1,0 +1,28 @@
+/* селектор{
+    властивість: значення;
+    ...
+    ...
+}
+селектор {
+    властивість: значення;
+    ...
+    
+} */
+
+.section-title{
+    color: blueviolet;
+}
+
+h3{
+    color: blue;
+}
+
+.list{
+    background-color: skyblue;
+}
+
+#title{
+    background-color: palevioletred;
+    width: 440px;
+}
+
