@@ -1,0 +1,39 @@
+/* body{
+    color: rgb(0, 110, 74);
+} */
+/* a{
+    color: brown;
+} */
+/* body{
+    color:blue ;
+}
+h2,
+h3{
+    color: rgb(151, 233, 0);
+} */
+/* .item{
+    color: coral;
+} */
+/* ul{
+    color: greenyellow;
+} */
+
+/* .body section{
+    color: rgb(255, 80, 133);
+    background-color: #ff923859;
+} */
+.hero-button{
+    background-color: #40a0e03d ;
+    width: 200px;
+    height: 50px;
+    border: 0px;
+    
+}
+
+.hero-button:hover,
+.hero-button:focus{
+    background-color: #03609e91 ;
+    width: 200px;
+    height: 50px;
+    border: 0px;
+}
